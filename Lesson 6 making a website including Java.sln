@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 6 making a website including Java", "Lesson 6 making a website including Java\Lesson 6 making a website including Java.csproj", "{941F18CC-EC88-4271-B95E-A2BD2BEA2850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941F18CC-EC88-4271-B95E-A2BD2BEA2850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941F18CC-EC88-4271-B95E-A2BD2BEA2850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941F18CC-EC88-4271-B95E-A2BD2BEA2850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941F18CC-EC88-4271-B95E-A2BD2BEA2850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6B87E1-1F24-4303-B4F1-226A12DD8614}
+	EndGlobalSection
+EndGlobal
